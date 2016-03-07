@@ -12,3 +12,4 @@ Git has a mutable index called stage.
 Git has a new .
 Git tracks changes of files.
 Git zheshiyihangxuyaoshanchude xiantijiaole zaishuo
+Git dierge kenengxuyaoshanchude banben
